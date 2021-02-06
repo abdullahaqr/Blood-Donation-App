@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "BloodDonationApp",
+    "slug": "BloodDonationApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.abdullah_aqr.BloodDonationApp",
+      "versionCode": 1
+    }
+  }
+}
